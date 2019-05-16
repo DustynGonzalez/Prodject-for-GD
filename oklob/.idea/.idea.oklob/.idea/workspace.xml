@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c48f629b-dfa1-4d32-966e-fb4b43da9956" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/CameraFollow.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+              <folding>
+                <marker date="1557864570175" expanded="true" signature="6:107" ph="..." />
+                <marker date="1557864570175" expanded="true" signature="150:1806" ph="{...}" />
+                <marker date="1557864570175" expanded="true" signature="415:508" ph="{...}" />
+                <marker date="1557864570175" expanded="true" signature="537:790" ph="{...}" />
+                <marker date="1557864570175" expanded="true" signature="630:684" ph="{...}" />
+                <marker date="1557864570175" expanded="true" signature="735:787" ph="{...}" />
+                <marker date="1557864570175" expanded="true" signature="823:1108" ph="{...}" />
+                <marker date="1557864570175" expanded="true" signature="1142:1790" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Banimator.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+              <folding>
+                <marker date="1558036876523" expanded="true" signature="6:78" ph="..." />
+                <marker date="1558036876523" expanded="true" signature="118:500" ph="{...}" />
+                <marker date="1558036876523" expanded="true" signature="167:222" ph="{...}" />
+                <marker date="1558036876523" expanded="true" signature="242:498" ph="{...}" />
+                <marker date="1558036876523" expanded="true" signature="378:431" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/CameraFollow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/People/RPG Character Animation Pack FREE/SuperCharacterController/SuperCharacterController/Core/SuperCharacterController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/um.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MovingisHard.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/B_interface.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Banimator.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/um.cs" />
+        <option value="$PROJECT_DIR$/Assets/Animatingwellumntanimatingbutstillusinganimationsishard.cs" />
+        <option value="$PROJECT_DIR$/Assets/B_interface.cs" />
+        <option value="$PROJECT_DIR$/Assets/MovingisHard.cs" />
+        <option value="$PROJECT_DIR$/Assets/CameraFollow.cs" />
+        <option value="$PROJECT_DIR$/Assets/AnimatorforMcBington.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1031" />
+    <option name="y" value="62" />
+    <option name="width" value="526" />
+    <option name="height" value="1247" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c48f629b-dfa1-4d32-966e-fb4b43da9956" name="Default Changelist" comment="" />
+      <created>1552333700524</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552333700524</updated>
+      <workItem from="1552333709876" duration="4239000" />
+      <workItem from="1552506571701" duration="4210000" />
+      <workItem from="1552678817338" duration="4493000" />
+      <workItem from="1553025194255" duration="3456000" />
+      <workItem from="1555618794730" duration="2215000" />
+      <workItem from="1555962171376" duration="1672000" />
+      <workItem from="1555963986747" duration="1777000" />
+      <workItem from="1555965819167" duration="774000" />
+      <workItem from="1556135588583" duration="1733000" />
+      <workItem from="1556137361925" duration="1738000" />
+      <workItem from="1556139219110" duration="395000" />
+      <workItem from="1556307674408" duration="1223000" />
+      <workItem from="1556653704187" duration="594000" />
+      <workItem from="1556657441136" duration="607000" />
+      <workItem from="1556825909295" duration="593000" />
+      <workItem from="1557171823714" duration="3234000" />
+      <workItem from="1557344920292" duration="1619000" />
+      <workItem from="1557520732937" duration="149000" />
+      <workItem from="1557520926688" duration="225000" />
+      <workItem from="1557521449963" duration="553000" />
+      <workItem from="1557864128009" duration="3340000" />
+      <workItem from="1558035761213" duration="2506000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="41345000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1032" y="54" width="1040" height="1256" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.39591837" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Unity" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Unit Tests" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" weight="0.26447016" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info active="true" anchor="right" id="Errors In Solution" order="4" visible="true" weight="0.1" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/um.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Animatingwellumntanimatingbutstillusinganimationsishard.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/B_interface.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+          <folding>
+            <marker date="1555620140314" expanded="false" signature="6:78" ph="..." />
+            <marker date="1555620140314" expanded="true" signature="127:400" ph="{...}" />
+            <marker date="1555620140314" expanded="true" signature="199:319" ph="{...}" />
+            <marker date="1555620140314" expanded="true" signature="377:398" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MovingisHard.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+          <folding>
+            <marker date="1555962394688" expanded="true" signature="6:203" ph="..." />
+            <marker date="1555962394688" expanded="true" signature="246:609" ph="{...}" />
+            <marker date="1555962394688" expanded="true" signature="306:355" ph="{...}" />
+            <marker date="1555962394688" expanded="true" signature="379:607" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/People/RPG Character Animation Pack FREE/SuperCharacterController/SuperCharacterController/Core/SuperCharacterController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2108">
+          <caret line="55" column="12" selection-start-line="55" selection-start-column="12" selection-end-line="55" selection-end-column="12" />
+          <folding>
+            <marker date="1546854641000" expanded="false" signature="41:120" ph="..." />
+            <marker date="1546854641000" expanded="true" signature="122:325" ph="/// Custom character controller, to be used by attaching the component to an object ... " />
+            <marker date="1546854641000" expanded="true" signature="379:30833" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="814:1044" ph="/// Describes the Transform of the object we are standing on as well as it's CollisionType, as well ... " />
+            <marker date="1546854641000" expanded="true" signature="1090:1831" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="1565:1825" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="1917:2085" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="2443:2565" ph="/// Total height of the controller from the bottom of the feet to the top of the head ... " />
+            <marker date="1546854641000" expanded="true" signature="3778:5010" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="4245:4390" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="5029:5768" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="5044:5183" ph="/* If we are using a fixed timestep, ensure we run the main update loop ... */" />
+            <marker date="1546854641000" expanded="true" signature="5262:5371" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="5384:5762" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="5480:5627" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="5656:5752" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="5815:5888" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="5913:7232" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="7264:7402" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="7408:7657" ph="/// Prevents the player from walking up slopes of a larger angle than the object's SlopeLimit. ... " />
+            <marker date="1546854641000" expanded="true" signature="7679:9121" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="7838:9092" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="8867:8962" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="8979:9056" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="9147:9241" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="9275:9312" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="9347:9385" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="9421:9463" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="9500:9543" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="9573:9610" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="9616:9824" ph="/// Check if any of the CollisionSpheres are colliding with any walkable objects in the world. ... " />
+            <marker date="1546854641000" expanded="true" signature="9876:13415" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="9986:13263" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="10120:13241" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="10411:10475" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="10764:13227" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="11401:11892" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="11502:11630" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="11659:11870" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="11917:12028" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="12876:13157" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="13337:13409" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="13453:13677" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="13581:13671" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="13718:14036" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="13820:14030" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="14076:14319" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="14143:14274" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="14344:14823" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="14411:14817" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="14454:14807" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="14572:14793" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="14882:15068" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="15115:15199" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="15246:15332" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="15378:15425" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="15478:15528" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="15569:15615" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="15645:30831" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="15779:15937" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="15970:16378" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="16224:16368" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="17062:17536" ph="/// Scan the surface below us for ground. Follow up the initial scan with subsequent scans ... " />
+            <marker date="1546854641000" expanded="true" signature="17594:24302" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="18095:23092" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="18247:18340" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="18453:18645" ph="/* By reducing the initial SphereCast's radius by Tolerance, our casted sphere no longer fits with ... */" />
+            <marker date="1546854641000" expanded="true" signature="18805:18941" ph="/* If we are standing on a perfectly flat surface, we cannot be either on an edge, ... */" />
+            <marker date="1546854641000" expanded="true" signature="19111:19175" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="19193:19358" ph="/* As we are standing on an edge, we need to retrieve the normals of the two ... */" />
+            <marker date="1546854641000" expanded="true" signature="20253:20426" ph="/* If we are currently standing on ground that should be counted as a wall, ... */" />
+            <marker date="1546854641000" expanded="true" signature="20503:21447" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="20956:21429" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="21113:21289" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="21318:21407" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="21465:21717" ph="/* If we are currently standing on a ledge then the face nearest the center of the ... */" />
+            <marker date="1546854641000" expanded="true" signature="21830:23078" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="21980:22076" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="22098:22237" ph="/* We contacted the wall of the ledge, rather than the landing. Raycast down ... */" />
+            <marker date="1546854641000" expanded="true" signature="22313:22890" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="22711:22868" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="22915:23060" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="23105:23252" ph="/* If the initial SphereCast fails, likely due to the controller clipping a wall, ... */" />
+            <marker date="1546854641000" expanded="true" signature="23354:24122" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="23506:23599" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="23809:23963" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="23984:24108" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="24139:24292" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="24339:24517" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="24589:24699" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="24797:26712" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="24925:24983" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="25153:25496" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="25327:25451" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="25670:26464" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="25961:26084" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="26296:26419" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="26501:26578" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="26595:26676" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="26722:27204" ph="/// To help the controller smoothly &quot;fall&quot; off surfaces and not hang on the edge of ledges, ... " />
+            <marker date="1546854641000" expanded="true" signature="27271:27817" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="27857:27918" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="27951:28014" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="28105:29048" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="28165:28310" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="28355:28492" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="28535:28669" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="28716:28855" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="28900:29038" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="29058:29557" ph="/// Provides raycast data based on where a SphereCast would contact the specified normal ... " />
+            <marker date="1546854641000" expanded="true" signature="29639:30825" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="29894:30420" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="30555:30740" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="30757:30815" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="30878:31125" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="31021:31123" ph="{...}" />
+            <marker date="1546854641000" expanded="true" signature="31155:31340" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/AnimatorforMcBington.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/CameraFollow.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+          <folding>
+            <marker date="1557864570175" expanded="true" signature="6:107" ph="..." />
+            <marker date="1557864570175" expanded="true" signature="150:1806" ph="{...}" />
+            <marker date="1557864570175" expanded="true" signature="415:508" ph="{...}" />
+            <marker date="1557864570175" expanded="true" signature="537:790" ph="{...}" />
+            <marker date="1557864570175" expanded="true" signature="630:684" ph="{...}" />
+            <marker date="1557864570175" expanded="true" signature="735:787" ph="{...}" />
+            <marker date="1557864570175" expanded="true" signature="823:1108" ph="{...}" />
+            <marker date="1557864570175" expanded="true" signature="1142:1790" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Banimator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+          <folding>
+            <marker date="1558036876523" expanded="true" signature="6:78" ph="..." />
+            <marker date="1558036876523" expanded="true" signature="118:500" ph="{...}" />
+            <marker date="1558036876523" expanded="true" signature="167:222" ph="{...}" />
+            <marker date="1558036876523" expanded="true" signature="242:498" ph="{...}" />
+            <marker date="1558036876523" expanded="true" signature="378:431" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
